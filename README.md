@@ -72,15 +72,17 @@ tools.
 # PromiseKit is Thousands of Hours of Work
 
 Hey there, I’m Max Howell. I’m a prolific producer of open source software and
-probably you already use some of it (for example, I created [`brew`]). I work
-full-time on open source and it’s hard; currently *I earn less than minimum
-wage*. Please help me continue my work, I appreciate it 🙏🏻
+probably you already use some of it (I created [`brew`]). I work full-time on
+open source and it’s hard; currently *I earn less than minimum wage*. Please
+help me continue my work, I appreciate it 🙏🏻
 
 <a href="https://www.patreon.com/mxcl">
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-[Other ways to say thanks](http://mxcl.github.io/#donate).
+[Other ways to say thanks](http://mxcl.dev/#donate).
+
+[`brew`]: https://brew.sh
 
 # Documentation
 
@@ -93,7 +95,7 @@ wage*. Please help me continue my work, I appreciate it 🙏🏻
   * [Objective-C Guide](Documentation/ObjectiveC.md)
   * [Troubleshooting](Documentation/Troubleshooting.md) (e.g., solutions to common compile errors)
   * [Appendix](Documentation/Appendix.md)
-* [API Reference](https://mxcl.github.io/PromiseKit/reference/v6/Classes/Promise.html)
+* [API Reference](https://mxcl.dev/PromiseKit/reference/v6/Classes/Promise.html)
 
 # Extensions
 
@@ -193,7 +195,7 @@ if after that you still have a question, ask at our [Gitter chat channel] or on 
 [Gitter chat channel]: https://gitter.im/mxcl/PromiseKit
 [our bug tracker]: https://github.com/mxcl/PromiseKit/issues/new
 [Podfile]: https://guides.cocoapods.org/syntax/podfile.html
-[PMK6]: http://mxcl.github.io/PromiseKit/news/2018/02/PromiseKit-6.0-Released/
+[PMK6]: http://mxcl.dev/PromiseKit/news/2018/02/PromiseKit-6.0-Released/
 [Installation Guide]: Documentation/Installation.md
 [badge-travis]: https://travis-ci.org/mxcl/PromiseKit.svg?branch=master
 [travis]: https://travis-ci.org/mxcl/PromiseKit

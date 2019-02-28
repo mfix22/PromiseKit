@@ -11,4 +11,4 @@
   * [Troubleshooting](Troubleshooting.md)
   * [Appendix](Appendix.md)
 * [Examples](Examples)
-* [API Reference](https://mxcl.github.io/PromiseKit/reference/v6/Classes/Promise.html)
+* [API Reference](https://mxcl.dev/PromiseKit/reference/v6/Classes/Promise.html)
