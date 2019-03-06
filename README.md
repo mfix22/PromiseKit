@@ -3,6 +3,7 @@
 [![badge-pod][]][cocoapods] ![badge-languages][] ![badge-pms][] ![badge-platforms][] [![badge-travis][]][travis]
 
 
+
 ---
 
 Promises simplify asynchronous programming, freeing you up to focus on the more
